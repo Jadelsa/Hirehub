@@ -1,4 +1,4 @@
-<?php
+ <?php
 // إعدادات قاعدة البيانات
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'agile2');
