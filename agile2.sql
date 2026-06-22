@@ -1,6 +1,5 @@
 -- قاعدة بيانات HireHub - agile2
 -- تم التحديث والتحسين
-
 -- حذف قاعدة البيانات إذا كانت موجودة
 DROP DATABASE IF EXISTS agile2;
 
